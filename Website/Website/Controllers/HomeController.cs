@@ -17,5 +17,9 @@ namespace Website.Controllers
         {
             return View();
         }
+        public ActionResult Aleksei()
+        {
+            return View();
+        }
     }
 }
